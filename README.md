@@ -11,3 +11,5 @@
 
 ### 시스템 프로그래밍
 - 01_ComputerArchitecture
+- 04_register
+- 05_Process
