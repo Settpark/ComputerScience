@@ -19,3 +19,4 @@
 - 01_InternetNetwork
 - 02_URI & request flow
 - 03_HTTPBasic
+- 04_HTTP Method
