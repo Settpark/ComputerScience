@@ -22,3 +22,5 @@
 - 04_HTTP Method
 - 05_HTTP Status Code
 - 06_HTTP Header
+- 07_HTTP Conditional Header
+- 08_Cache
